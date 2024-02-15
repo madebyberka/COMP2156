@@ -1,8 +1,6 @@
-#### COMP2156 – Developer Operations
+## COMP2156 – Developer Operations
+Github action and node project example
 
-GitHub Action and Node Project Example
-
-## References:
-
+## References 
 -- https://nodejs.org/en/download
 -- https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
